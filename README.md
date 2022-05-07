@@ -9,7 +9,7 @@ In this project we are working with the zillow data set and google api for the o
 
 ## Average Home Values By all states in UNITED STATES
 
- * The following image captures the Average home value by different criterias:
+ * The following image captures the TOP 5Average home value by different criterias:
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
   ![All States Average Home Value](ScreenShots/Top5StatesBox&#32;Plot.png)
@@ -21,7 +21,18 @@ In this project we are working with the zillow data set and google api for the o
   
   ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
   
-  
+ # Anovotest in Average home value
+ * p-value greater than 0.05. If the p-value is large (> 0.05), it indicates weak evidence against the null hypothesis.As a result, the null hypothesis is not rejected.Thus for a hypothesis with a p-value greater than 0.05, the null hypothesis is not rejected, and the alternative hypothesis is not accepted. This means that the results of the research/ study are not statistically significant.
+ * p-value less than 0.05. If the p-value is small (< 0.05), it indicates a piece of strong evidence against the null hypothesis. As a result, the null hypothesis is rejected. Thus for a hypothesis with a p-value less than 0.05, the null hypothesis is rejected, and the alternative hypothesis is accepted. This means that the results of the research/ study are statistically significant.
+
+* Based on the TOP 5 STATE VALUE FROM JAN 2000 TO MARCH 2022, does not have any significant IN PRICE.
+* F_onewayResult(statistic=122.0636293024792, pvalue=8.814967969996069e-89
+
+* Based on the TOP 2 STATE VALUE FROM JAN 2000 TO MARCH 2022, have significant IN PRICE.
+* F_onewayResult(statistic=13.028463629177644, pvalue=0.00033578407607901705
+
+* Based on the TOP 5 CITY IN CALIFORNIA VALUE FROM JAN 2000 TO MARCH 2022, does not have any significant IN PRICE.
+* F_onewayResult(statistic=206.69941708214913, pvalue=6.112212677528717e-138)
   
   ![Top 2 States Average Home Value](ScreenShots/Ali's_2top&#32;states&#32;Average_home&#32;VAlue.png)
   
