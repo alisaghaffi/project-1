@@ -7,3 +7,9 @@ In this project we are working with the zillow data set and google api for the o
 * We used this data set from zillow and downloaded all our CSV's from here [Zillow Research Data Sets](https://www.zillow.com/research/data/).
 * We used the google API link [Google API](https://developers.google.com/maps/documentation/geocoding/requests-geocoding)
 
+## Average Home Values By all states in UNITED STATES
+
+ * The following image captures the airport ratings heatmap:
+
+  ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
+
