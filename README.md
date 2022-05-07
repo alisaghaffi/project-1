@@ -14,13 +14,14 @@ In this project we are working with the zillow data set and google api for the o
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
   
   
- * Create a Bar graph and boxplot to compare all state from 2000 to end of march 2022 base on home value price. It is showing us the Price varies by state and we noticed that Arizona is the cheapeast from all the 50 sates and Hawaii is the most costly. 
+ * Create a Bar graph and boxplot and also the heatmaps to compare all state from 2000 to end of march 2022 base on home value price. It is showing us the Price varies by state and we noticed that Arizona is the cheapeast from all the 50 sates and Hawaii is the most costly. 
   
   ![Top 5 States Average Home Value](ScreenShots/Bar_chart&#32;all&#32;states.png)
+  ![All States Average Home Value](ScreenShots/Average_US_Home_Value_map.png)
   
   ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
+  ![Region Scatter Average Reny Value](ScreenShots/Avg_City_Home_Value_map.png)
   
-  ![All States Average Home Value](ScreenShots/Average_US_Home_Value_map.png)
   
  # Comparision of the Average home in California by past 3 years
  
@@ -62,5 +63,4 @@ In this project we are working with the zillow data set and google api for the o
    ![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
    
 
-  ![Region Scatter Average Reny Value](ScreenShots/Avg_City_Home_Value_map.png)
-
+![Region Scatter Average Reny Value](ScreenShots/Rent_Average_Value_map.png)
