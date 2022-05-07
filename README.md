@@ -54,15 +54,29 @@ In this project we are working with the zillow data set and google api for the o
   
   # Average Rent Values Analysis
   
-  * The bar chart shows the comparison of rent averages by regions in the United States.
+* The bar chart shows the comparison of rent averages by regions in the United States.
   
-![Region Average Reny Value](ScreenShots/rent_average_byregion_luis.png)
+  ![Region Average Reny Value](ScreenShots/rent_average_byregion_luis.png)
    
-  * The scatter plot shows the comparison of rent averages by regions in the United States.
+* The scatter plot shows the comparison of rent averages by regions in the United States.
   
-![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
+  ![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
    
-  * The bar chart shows the comparison of rent averages by states in the United States.
-![Region Scatter Average Reny Value](ScreenShots/Rent_averageofallstate_luis.png)
+* The bar chart shows the comparison of rent averages by states in the United States.
+  ![Region Scatter Average Reny Value](ScreenShots/Rent_averageofallstate_luis.png)
+  
+  
+  ![Region Scatter Average Reny Value](ScreenShots/luispichart.png)
+  
+  
 
-![Region Scatter Average Reny Value](ScreenShots/Rent_Average_Value_map.png)
+  ![Region Scatter Average Reny Value](ScreenShots/Rent_Average_Value_map.png)
+  
+  
+  # Correllation Test on Sales Count 
+  
+  
+ * In the code, you can pick your desired city to see its home value and sales count relationship but for this graph, we picked New York as the example. The top graph shows only the New York City data while the graph below shows the data of New York State. The bars in blue is home value and the lines in red is sales count. When home value is declining, there is not much of an increase in sales count. However, when home value starts to pick up so does the sales count. In the regression line for both home value and sales count, it has a similar slope. Another important information we can get from the regression line is its importance with home value. When the home value is below the regression line, it means the home value is undervalued. On the other hand, when the home value is above the regression line, it means the home value is overvalued. These ideas apply to the state graph as well. Pearson correlation test is done between home value and sales count and it tells you what the R-value is. In the case of New York, there is a moderate relationship between the two variable with both the city and the state.
+
+
+    ![Region Scatter Average Reny Value](ScreenShots/Correlationtest_Dennis.png)
