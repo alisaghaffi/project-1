@@ -18,8 +18,9 @@ In this project we are working with the zillow data set and google api for the o
   
   ![Top 5 States Average Home Value](ScreenShots/Bar_chart&#32;all&#32;states.png)
   
-  
   ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
+  
+  ![All States Average Home Value](ScreenShots/Average_US_Home_Value_map.png)
   
  # Comparision of the Average home in California by past 3 years
  
@@ -59,4 +60,7 @@ In this project we are working with the zillow data set and google api for the o
   * The scatter plot shows the comparison of rent averages by regions in the United States.
   
    ![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
+   
+
+  ![Region Scatter Average Reny Value](ScreenShots/Avg_City_Home_Value_map.png)
 
