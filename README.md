@@ -9,7 +9,7 @@ In this project we are working with the zillow data set and google api for the o
 
 ## Average Home Values By all states in UNITED STATES
 
- * The following image captures the airport ratings heatmap:
+ * The following image captures the Average home value by different criterias:
 
-  ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
+  ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png | width=100)
 
