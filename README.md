@@ -13,7 +13,14 @@ In this project we are working with the zillow data set and google api for the o
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
   
+ * Bar chart Defininf the Average Home Values of all states 
+  
   ![Top 5 States Average Home Value](ScreenShots/Bar_chart&#32;all&#32;states.png)
   
+ * Create a boxplot to compare all state from 2000 to end of march 2022 base on home value price
+  
   ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
+  
+
+  ![All States Average Home Value](ScreenShots/Ali's_2top&#32;states&#32;Average_home&#32;VAlue.png.png)
 
