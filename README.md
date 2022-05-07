@@ -9,9 +9,10 @@ In this project we are working with the zillow data set and google api for the o
 
 ## Average Home Values By all states in UNITED STATES
 
- * The following image captures the TOP 5Average home value by different criterias:
+ * The following image captures the TOP 5 Average home value by different criterias:
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
+  
   
  * Create a Bar graph and boxplot to compare all state from 2000 to end of march 2022 base on home value price. It is showing us the Price varies by state and we noticed that Arizona is the cheapeast from all the 50 sates and Hawaii is the most costly. 
   
@@ -19,6 +20,12 @@ In this project we are working with the zillow data set and google api for the o
   
   
   ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
+  
+ # Comparision of the Average home in California by past 3 years
+ 
+ * Pie Chart showing the average price of year 2020, 2021 and 2022 in California
+
+  ![All States Average Home Value](ScreenShots/California_pie_chart_fenny.png.png)
   
  # Anovotest in Average home value
  * p-value greater than 0.05. If the p-value is large (> 0.05), it indicates weak evidence against the null hypothesis.As a result, the null hypothesis is not rejected.Thus for a hypothesis with a p-value greater than 0.05, the null hypothesis is not rejected, and the alternative hypothesis is not accepted. This means that the results of the research/ study are not statistically significant.
@@ -40,16 +47,16 @@ In this project we are working with the zillow data set and google api for the o
 * F_onewayResult(statistic=206.69941708214913, pvalue=6.112212677528717e-138)
   
   ![Top 2 States Average Home Value](ScreenShots/Top_5Cisities_california_ali.png)
+  ![Top 2 States Average Home Value](ScreenShots/Box_plot_by_city_ALI.png)
 
   
   # Average Rent Values Analysis
   
   * The bar chart shows the comparison of rent averages by regions in the United States.
   
-   ![Region Average Reny Value](rent_average_byregion_luis.png
+   ![Region Average Reny Value](ScreenShots/rent_average_byregion_luis.png)
    
   * The scatter plot shows the comparison of rent averages by regions in the United States.
-   
   
-   ![Region Scatter Average Reny Value](scatterplot_byregion_luis.png)
+   ![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
 
