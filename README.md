@@ -13,5 +13,5 @@ In this project we are working with the zillow data set and google api for the o
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
   
-  ![All States Average Home Value](ScreenShots/Bar_chart all states.png)
+  ![All States Average Home Value](ScreenShots/BoxPlot_allstates_averagehomevalue_ALI.png)
 
