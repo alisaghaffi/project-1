@@ -62,5 +62,7 @@ In this project we are working with the zillow data set and google api for the o
   
    ![Region Scatter Average Reny Value](ScreenShots/scatterplot_byregion_luis.png)
    
+  * The bar chart shows the comparison of rent averages by states in the United States.
+   ![Region Scatter Average Reny Value](ScreenShots/Rent_averageofallstate_luis.png)
 
-![Region Scatter Average Reny Value](ScreenShots/Rent_Average_Value_map.png)
+  ![Region Scatter Average Reny Value](ScreenShots/Rent_Average_Value_map.png)
