@@ -25,7 +25,7 @@ In this project we are working with the zillow data set and google api for the o
  
  * Pie Chart showing the average price of year 2020, 2021 and 2022 in California
 
-  ![All States Average Home Value](ScreenShots/California_pie_chart_fenny.png.png)
+  ![All States Average Home Value](ScreenShots/California_pie_chart_fenny.png)
   
  # Anovotest in Average home value
  * p-value greater than 0.05. If the p-value is large (> 0.05), it indicates weak evidence against the null hypothesis.As a result, the null hypothesis is not rejected.Thus for a hypothesis with a p-value greater than 0.05, the null hypothesis is not rejected, and the alternative hypothesis is not accepted. This means that the results of the research/ study are not statistically significant.
