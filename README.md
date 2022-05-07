@@ -13,7 +13,5 @@ In this project we are working with the zillow data set and google api for the o
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
   
- * The following image captures the Average home value by different criterias:
-
   ![All States Average Home Value](ScreenShots/Bar_chart all states.png)
 
