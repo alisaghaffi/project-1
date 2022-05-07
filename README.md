@@ -12,7 +12,6 @@ In this project we are working with the zillow data set and google api for the o
  * The following image captures the TOP 5Average home value by different criterias:
 
   ![Top 5 States Average Home Value](ScreenShots/top_5_states_ar_chart.png)
-  ![All States Average Home Value](ScreenShots/Top5StatesBox&#32;Plot.png)
   
  * Create a Bar graph and boxplot to compare all state from 2000 to end of march 2022 base on home value price. It is showing us the Price varies by state and we noticed that Arizona is the cheapeast from all the 50 sates and Hawaii is the most costly. 
   
@@ -28,13 +27,29 @@ In this project we are working with the zillow data set and google api for the o
 * Based on the TOP 5 STATE VALUE FROM JAN 2000 TO MARCH 2022, does not have any significant IN PRICE.
 * F_onewayResult(statistic=122.0636293024792, pvalue=8.814967969996069e-89
 
+![All States Average Home Value](ScreenShots/Top5StatesBox&#32;Plot.png)
+
 * Based on the TOP 2 STATE VALUE FROM JAN 2000 TO MARCH 2022, have significant IN PRICE.
 * F_onewayResult(statistic=13.028463629177644, pvalue=0.00033578407607901705
+
+  ![Top 2 States Average Home Value](ScreenShots/Ali's_2top&#32;states&#32;Average_home&#32;VAlue.png)
+  
+  ![Top 2 States Average Home Value](ScreenShots/Top2StatesBox&#32;Plot.png)
 
 * Based on the TOP 5 CITY IN CALIFORNIA VALUE FROM JAN 2000 TO MARCH 2022, does not have any significant IN PRICE.
 * F_onewayResult(statistic=206.69941708214913, pvalue=6.112212677528717e-138)
   
-  ![Top 2 States Average Home Value](ScreenShots/Ali's_2top&#32;states&#32;Average_home&#32;VAlue.png)
+  ![Top 2 States Average Home Value](ScreenShots/Top_5Cisities_california_ali.png)
+
   
-  ![Top 2 States Average Home Value](ScreenShots/Top2StatesBox&#32;Plot.png)
+  # Average Rent Values Analysis
+  
+  * The bar chart shows the comparison of rent averages by regions in the United States.
+  
+   ![Region Average Reny Value](rent_average_byregion_luis.png
+   
+  * The scatter plot shows the comparison of rent averages by regions in the United States.
+   
+  
+   ![Region Scatter Average Reny Value](scatterplot_byregion_luis.png)
 
